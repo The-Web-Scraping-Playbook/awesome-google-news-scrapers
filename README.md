@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Google-News OpsKit
-> Find out everything you need to know to reliably scrape Google-News with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/google-news)
+> Find out everything you need to know to reliably scrape Google-News with our new tool: [Ops Kit](https://scrapeops.io/websites/google-news)
 
 This kit provides the blueprint for Google-News scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -137,7 +137,7 @@ This kit provides the blueprint for Google-News scraping operations:
 ---
 
 ## 🧠 Google-News Tutorials & How-Tos<a id="google-news-tutorials"></a>
-- 📘 [How to Scrape Google-News at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-google-news/)
+- 📘 [How to Scrape Google-News at Scale](https://scrapeops.io/websites/google-news/how-to-scrape-google-news)
 - 🔐 [Web Scraping Google-News Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
